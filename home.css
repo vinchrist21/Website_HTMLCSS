@@ -133,8 +133,12 @@ footer #rights p{
     text-align: center;
     float: left;
     margin-bottom: 30px;
+    
 }
 
+.pilihan2 img{
+    margin-left: -65px;
+}
 
 
 
@@ -377,9 +381,9 @@ input[type=submit]:hover {
     transition: 0.5s;
   }
 
-@media  screen and (max-width: 794px) {
+  @media  screen and (max-width: 794px) {
     /* My Interest*/
-    #logo img{
+     #logo img{
         width: 20%;
     }
 
@@ -420,13 +424,8 @@ input[type=submit]:hover {
 
     }
 
-    .pilihan2 img{
-        margin: auto;
-        width: 70%;
-    }
-
     /* Footer */
-    #rights{
+     #rights{
         width: 100%;
         background-color: unset;
     }
@@ -436,10 +435,9 @@ input[type=submit]:hover {
         width: 15%;
     }
     #rights a{
+        margin: auto; 
+    } 
 
-        margin: auto;
-
-    }
     .project {
         width: 100%;
         margin: auto;
