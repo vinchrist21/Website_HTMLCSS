@@ -466,4 +466,19 @@ input[type=submit]:hover {
         text-align: center;
         margin: auto auto 20px 45px;
     }
+      #big img{
+        width: 100%;
+        float: left;
+    }
+
+    .kotak{
+        width: 50%;
+        margin-left: 25%;
+
+    }
+
+    .kotak img{
+        width: 100%;
+        clear: both;
+    }
   }
