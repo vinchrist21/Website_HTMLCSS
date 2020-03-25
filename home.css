@@ -440,4 +440,27 @@ input[type=submit]:hover {
         margin: auto;
 
     }
+    .project {
+        width: 100%;
+        margin: auto;
+    }
+
+    .project img {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 85%;
+        clear: both;
+    }
+
+    .project h2{
+        text-align: center;
+        clear: both;
+        margin-left: 45px;
+    }
+
+    .project .textpro{
+        font-size: 16px;
+        text-align: center;
+        margin: auto auto 20px 45px;
+    }
   }
