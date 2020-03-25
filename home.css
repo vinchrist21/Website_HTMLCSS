@@ -135,6 +135,10 @@ footer #rights p{
     margin-bottom: 30px;
 }
 
+.pilihan2 img{
+    margin-left: -65px;   
+}
+
 
 
 /* My Interest (ML)*/
@@ -378,9 +382,5 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 800px){
     
-    #boxluar .project{
-        margin-left: 100px;
-    }
-
     
 }
